@@ -40,10 +40,10 @@
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home](./assets/screenshot-home.png)
+![Home](./assets/screenshot-home.png.png)
 
 ### 📑 Results View
-![Results](./assets/screenshot-results.png)
+![Results](./assets/screenshot-results.png.png)
 
 ---
 ## 🚀 Getting Started
