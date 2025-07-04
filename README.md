@@ -37,7 +37,15 @@
   *(using LLaMA 3 model with blazing fast inference)*
 
 ---
+## 📸 Screenshots
 
+### 🏠 Home Page
+![Home](./assets/screenshot-home.png)
+
+### 📑 Results View
+![Results](./assets/screenshot-results.png)
+
+---
 ## 🚀 Getting Started
 
 ```bash
